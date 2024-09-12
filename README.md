@@ -29,10 +29,10 @@ Ensure the following are installed:
 - **Flask**: Python web framework.
 - **Ollama**: This guide assumes you're using Ollama.
 
-You can install them by running the following commands in a cell:
+You can install Flask by running the following commands in a cell:
 
 ```bash
-!pip install flask ollama
+%pip install flask
 ```
 Steps to Set Up and Run the Flask App
 Write the Flask App:
